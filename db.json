@@ -51,6 +51,12 @@
             "age":34,
             "email":"viru.kumar@gmail.com",
             "pic":"https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80"
+        },
+        {
+        "name":"Amrutha Ramesh",
+            "age":29,
+            "email":"amrutha.r@bits.com",
+            "pic":"https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1727&q=80"
         }
     ]
 }
